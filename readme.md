@@ -20,7 +20,7 @@ I want to show that data science can be used to extract insights about the custo
 ## File Descriptions <a name="files"></a>
 
 `utils.py`  
-This module contains helpful data cleaning functions that used in the jupyter notebooks.
+This module contains the data cleaning functions that are used in the jupyter notebooks.
 
 `Part1_Data_Cleaning.ipynb`  
 All the data cleaning steps are fully documented in this notebook. Refactored functions are placed in utils.py and will be reused in Part3.
