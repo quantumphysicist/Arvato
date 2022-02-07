@@ -8,10 +8,17 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-Please use `requirements.txt.` (Note that all the required modules are **not** preinstalled in the Udacity workspace.)
+Libraries used:  
+- matplotlib==3.4.2
+- numpy==1.20.2
+- pandas==1.4.0
+- pandas_stubs==1.2.0.14
+- scikit_learn==1.0.2
+- xgboost==1.5.2
+
+(The following command can be used to install these: `pip install -r requirements.txt`)
 
 The data files analyzed are provided by Udacity's partners Arvato-Bertelsmann. Permission has not been provided to host them here. If you are attempting to run the jupyter notebooks in this repository, please ensure that the data files are placed in the data folder.
-
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -31,10 +38,14 @@ Unsupervised machine learning (principle component analysis (PCA) and K-means cl
 `Part3_Supervised_Machine_Learning.ipynb`  
 Supervised machine learning to try to predict which individuals from a new dataset are likely to become customers. XGBClassifier, AdaBoost, and GradientBoostingClassifer are explored, and AdaBoost is settled on to create the final model.
 
+## Summary of results
+
 The results of this investigation are fully documented both within the notebooks and at the associated medium article.
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 Author: Dr. Renju Mathew
 
-Thanks to Udacity for the idea for (and structure of) this project, and to Arvato-Bertelsmann for making their proprietary data available for this project.
+Thanks to Udacity for the idea for (and structure of) this project. Some of the initial comments provided by Udacity in the originally provided notebook have been altered slightly to make the notebook more readable.  
+
+Thanks to Arvato-Bertelsmann for making their proprietary data available for this project.
 
