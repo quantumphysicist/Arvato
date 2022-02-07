@@ -22,7 +22,7 @@ The data files analyzed are provided by Udacity's partners Arvato-Bertelsmann. P
 
 ## Project Motivation<a name="motivation"></a>
 
-I want to show that data science can be used to extract insights about the customers (and prospective customers) of a German mail-order sales company, including how the properties of those customers differ from the general German population.
+We want to show that data science can be used to extract insights about the customers (and prospective customers) of a German mail-order sales company, including how the properties of those customers differ from the general German population.
 
 ## File Descriptions <a name="files"></a>
 
@@ -40,7 +40,24 @@ Supervised machine learning to try to predict which individuals from a new datas
 
 ## Summary of results
 
-The results of this investigation are fully documented both within the notebooks and at the associated medium article.
+This investigation is fully documented both within the notebooks and at the associated [medium.com article](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3).
+
+Here are a summary of the results:
+
+The following are properties of those more likely to be customers:
+- Higher social status  
+- Higher mobility  
+- Live in neighborhoods containing houses with fewer people  
+- Less enthusiastic about advertising  
+- Lower online affinity 
+- Have made fewer transactions in the last 12 or 24 month  
+
+The following are the properties of those less likely to be customers:
+- Lower social status  
+- low mobility  
+- Live in neighborhoods containing houses with more people  
+- More enthusiastic about advertising  
+- Drive less expensive, bigger cars  
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 Author: Dr. Renju Mathew
