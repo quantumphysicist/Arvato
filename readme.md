@@ -19,16 +19,16 @@ I want to show that data science can be used to extract insights about the custo
 
 ## File Descriptions <a name="files"></a>
 
-`utils.py`
+`utils.py`  
 This module contains helpful data cleaning functions that used in the jupyter notebooks.
 
-`Part1_Data_Cleaning.ipynb`
+`Part1_Data_Cleaning.ipynb`  
 All the data cleaning steps are fully documented in this notebook. Refactored functions are placed in utils.py and will be reused in Part3.
 
-`Part2_Unsupervised_Machine_Learning.ipynb` 
+`Part2_Unsupervised_Machine_Learning.ipynb`   
 Unsupervised machine learning (principle component analysis (PCA) and K-means clustering) is used to discover the relationship between the properties of the company's current customers and the properties of the general population.
 
-`Part3_Supervised_Machine_Learning.ipynb`
+`Part3_Supervised_Machine_Learning.ipynb`  
 Supervised machine learning to try to predict which individuals from a new dataset are likely to become customers. XGBClassifier, AdaBoost, and GradientBoostingClassifer are explored, and AdaBoost is settled on to create the final model.
 
 The results of this investigation are fully documented both within the notebooks and at the associated medium article.
