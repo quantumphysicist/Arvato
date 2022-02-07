@@ -22,7 +22,7 @@ The data files analyzed are provided by Udacity's partners Arvato-Bertelsmann. P
 
 ## Project Motivation<a name="motivation"></a>
 
-I want to show that data science can be used to extract insights about the customers (and prospective customers) of a German mail-order sales company, including how the properties of those customers differ from the general German population.
+We want to show that data science can be used to extract insights about the customers (and prospective customers) of a German mail-order sales company, including how the properties of those customers differ from the general German population.
 
 ## File Descriptions <a name="files"></a>
 
