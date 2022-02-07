@@ -8,13 +8,13 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-Libraries used:  
-- matplotlib==3.4.2
-- numpy==1.20.2
-- pandas==1.4.0
-- pandas_stubs==1.2.0.14
-- scikit_learn==1.0.2
-- xgboost==1.5.2
+Libraries used:    
+`matplotlib==3.4.2`  
+`numpy==1.20.2`  
+`pandas==1.4.0`  
+`pandas_stubs==1.2.0.14`  
+`scikit_learn==1.0.2`  
+`xgboost==1.5.2`  
 
 (The following command can be used to install these: `pip install -r requirements.txt`)
 
