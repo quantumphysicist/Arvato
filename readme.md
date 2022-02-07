@@ -62,7 +62,7 @@ The following are the properties of those less likely to be customers:
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 Author: Dr. Renju Mathew
 
-Thanks to Udacity for the idea for (and structure of) this project. Some of the initial comments provided by Udacity in the originally provided notebook have been altered slightly to make the notebook more readable.  
+Thanks to Udacity for the idea for (and structure of) this project. Some of the initial comments in the originally provided notebook have been altered slightly to make the notebook more readable.  
 
 Thanks to Arvato-Bertelsmann for making their proprietary data available for this project.
 
