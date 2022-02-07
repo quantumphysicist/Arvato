@@ -8,7 +8,7 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-Please use requirements.txt. Not all these modules are preinstalled in the Udacity workspace.
+Please use `requirements.txt.` (Note that all the required modules are **not** preinstalled in the Udacity workspace.)
 
 The data files analyzed are provided by Udacity's partners Arvato-Bertelsmann. Permission has not been provided to host them here. If you are attempting to run the jupyter notebooks in this repository, please ensure that the data files are placed in the data folder.
 
