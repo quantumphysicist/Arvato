@@ -1,5 +1,5 @@
 # Data Science: Analysis of the customers of a company versus the population at large
-This repository has an associated [medium.com article](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3).
+Note: This repository has an associated [medium.com article](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3).
 
 ### Table of Contents
 
