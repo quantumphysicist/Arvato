@@ -43,7 +43,7 @@ Supervised machine learning to try to predict which individuals from a new datas
 
 This investigation is fully documented both within the notebooks and at the associated [medium.com article](https://medium.com/@renju.s.mathew/data-science-what-can-we-learn-about-our-customers-8d9381eb3bc3).
 
-Here are a summary of the results:
+Here is a summary of the results:
 
 The following are properties of those more likely to be customers:
 - Higher social status  
